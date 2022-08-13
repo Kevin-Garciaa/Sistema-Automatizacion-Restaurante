@@ -1,2 +1,1 @@
-# Sistema-Automatizacion-Restaurante
-Sistema de Automatización de Restaurantes - Proyecto UMG
+# Sistema-Automatizacion-Restaurante-Proyecto UMG
